@@ -2,6 +2,9 @@
 
 This project focuses on predicting gold prices using machine learning techniques in Python. Historical gold price data in multiple currencies is analyzed, enriched with feature engineering, and used to train regression models for accurate price prediction.
 
+You can **test the working demo online** here:  
+👉 https://huggingface.co/spaces/sevvaliclal/GoldPricePredictionApp
+
 ---
 
 ## 📊 Dataset
